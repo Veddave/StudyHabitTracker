@@ -1,0 +1,32 @@
+{
+    "study_sessions": [
+        {
+            "subject": "Python ",
+            "topic": "Lists, Tuples and Dictionary",
+            "date": "26/09/2026",
+            "start_time": "09:00 PM",
+            "duration": 90,
+            "end_time": "10:30 PM"
+        },
+        {
+            "subject": "Maths",
+            "topic": "Calculus",
+            "date": "26/09/2026",
+            "start_time": "10:05 PM",
+            "duration": 180,
+            "end_time": "01:05 AM"
+        }
+    ],
+    "habits": [
+        {
+            "name": "Reading",
+            "completed_dates": [
+                "26/09/2026"
+            ]
+        },
+        {
+            "name": "2",
+            "completed_dates": []
+        }
+    ]
+}
